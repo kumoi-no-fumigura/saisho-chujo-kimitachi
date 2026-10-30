@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/saisho-chujo-kimitachi",
  "yomi": "さいしょうのちゅうじょうきみたちしゅんじゅううたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（春秋歌合）",
+  "era": "応和3年（963）7月2日",
+  "author": "主催 宰相中将藤原伊尹の君達",
+  "desc": "宰相中将藤原伊尹の子どもたちが春方と秋方に分かれ、作り花などを贈り合って春と秋の優劣を競った歌合。贈答のいきさつを仮名文で記す。"
+ },
  "editions": [
   {
    "pid": "1128193",
